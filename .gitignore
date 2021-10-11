@@ -1,0 +1,6 @@
+.metals
+.vagrant
+.vscode
+
+null/
+**/target/

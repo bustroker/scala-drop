@@ -1,0 +1,10 @@
+.metals
+.vagrant
+.vscode
+
+null/
+**/target/
+
+.gitignore
+Vagrantfile
+vagrant_provision.sh
